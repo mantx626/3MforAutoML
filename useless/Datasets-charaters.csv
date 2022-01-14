@@ -1,0 +1,21 @@
+﻿,Dataset,NumberOfInstances, NumberOfFeatures,BinaryClass,DateClass,MissingClassValues,NominalClass,NumericClass,NoClass,UnaryClass,EmptyNominalClass,StringClass,RelationalClass,OnlyMulti-InstanceData,BinaryAttributes,DateAttributes,EmptyNominalAttributes,MissingValues,NominalAttributes,NumericAttributes,UnaryAttibutes,RelationalAttributes,StringAttributes,Model
+1,Adults,48842,15,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1,a1
+2,Banking,45211,17,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1,a1
+3,Cars,1728,7,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,a6
+4,Amazon_employee_access,32769,10,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,a2
+5,Australian,690,15,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,a7
+6,blood-transfusion-service-center,748,5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,a4
+7,christine,5418,1637,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,a2
+8,cnae-9,1080,857,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,a2
+9,fabert,8237,801,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,a5
+10,helena,65196,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,a2
+11,jannis,83733,55,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,a2
+12,jasmine,2984,145,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,a8
+13,kc1,2109,22,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,a9
+14,kr-vs-kp,3196,37,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,a5
+15,mfeat-factors,2000,217,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,a10
+16,MiniBooNE,130064,51,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,a2
+17,nomao,34465,119,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,a2
+18,credit-g,1000,21,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,a4
+19,segment,2310,20,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,a3
+20,sylvine,5124,21,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,a3
